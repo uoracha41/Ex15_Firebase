@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616700964622",
+    "firebase_url": "https://egco428-json-221.firebaseio.com",
+    "project_id": "egco428-json-221",
+    "storage_bucket": "egco428-json-221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616700964622:android:56ad6ea701b9404025b15f",
+        "android_client_info": {
+          "package_name": "com.egco428.ex15_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616700964622-e991i8pri1ltm6o11nru4q85mmqtq83c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD77bVYrpec7UAcoTyxjJuHuLHL-L0HqUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616700964622-e991i8pri1ltm6o11nru4q85mmqtq83c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
